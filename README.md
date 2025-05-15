@@ -17,4 +17,5 @@ K	   r	  sigma	rho	  p0
 400	 0.5	0.1  	1	    0.7
 0.5	 0.5	0.5	  0.001	0.001
 
+
 The second row relates to the coefficient of variation of each parameter estimation around the expected value (2nd row). A very low value indicates that the parameter is fixed (e.g. 0.01)
