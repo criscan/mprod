@@ -13,8 +13,10 @@ An Excel file is read with data separated into two spreadsheets: one with catche
 
 The second spreadsheet considers the start parameters. The initial biomass as carrying capacity (K) could be established as K=0.8 * Sum of historical landings, r is the growth population rate (depending on the species biology), sigma is the standard deviation of data vs model, rho is the asymmetry rate of growth function (1=symmetric Shaefer model), and p0 a guess on population depletion at initial year
 
-K	   r	  sigma	rho	  p0
+K    r	  sigma	rho	  p0
+
 400	 0.5	0.1  	1	    0.7
+
 0.5	 0.5	0.5	  0.001	0.001
 
 
